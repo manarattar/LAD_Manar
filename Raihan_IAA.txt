@@ -1,0 +1,104 @@
+Output created: 11/30/25 14:48:53
+
+NaN	: a kappa value of "NaN" usually indicates a division by zero
+0	: a kappa value of "0" replaces a value < 0 (negative kappa), as opposed to the value "0.000"
+
+Number of files involved: 1 (current transcription)
+Number of selected tiers: 2
+Number of pairs of tiers in the comparison: 1
+Required minimal overlap percentage: 60%
+
+Global results of all files and all tiers:
+value	kappa	kappa_max	raw agreement
+"empty"	0.0000	0.0000	0.9910
+ACKNOWLEDGEMENT	0.6823	0.8094	0.9550
+ANSWER	0.8792	0.8792	0.9820
+BACKCHANNEL	0.8992	0.8992	0.9820
+CLARIFICATION	0.0000	0.0000	0.9910
+DIRECTIVE	0.0000	0.0000	0.9640
+EXPRESSIE	0.0000	0.0000	0.9820
+EXPRESSIVE	0.7429	0.8458	0.9099
+OTHER	1.0000	1.0000	1.0000
+QUESTION	1.0000	1.0000	1.0000
+REPAIR	0.0000	0.0000	0.9910
+STATEMENT	0.8286	0.9429	0.9189
+
+Global kappa values and agreement matrix:
+Overall results (incl. unlinked/unmatched annotations):
+kappa_ipf	kappa_max	raw agreement
+0.7572	0.8496	0.8108
+
+Overall results (excl. unlinked/unmatched annotations):
+kappa (excl.)	kappa_max (excl.)	raw agreement (excl.)
+0.8021	0.8515	0.8491
+
+Overall Agreement Matrix:
+First annotator in the rows, second annotator in the columns
+
+	"empty"	ACKNOWLEDGEMENT	ANSWER	BACKCHANNEL	CLARIFICATION	DIRECTIVE	EXPRESSIE	EXPRESSIVE	OTHER	QUESTION	REPAIR	STATEMENT	Unmatched	
+"empty"	0	0	0	0	0	0	0	0	0	0	0	0	0	
+ACKNOWLEDGEMENT	0	6	2	2	0	0	0	0	0	0	0	0	0	
+ANSWER	0	0	8	0	0	0	0	0	0	0	0	0	0	
+BACKCHANNEL	0	0	0	10	0	0	0	0	0	0	0	0	0	
+CLARIFICATION	0	0	0	0	0	0	0	0	0	0	0	0	0	
+DIRECTIVE	0	0	0	0	0	0	0	0	0	0	0	0	0	
+EXPRESSIE	0	0	0	0	0	0	0	2	0	0	0	0	0	
+EXPRESSIVE	0	0	0	0	0	2	0	20	0	0	0	6	0	
+OTHER	0	0	0	0	0	0	0	0	4	0	0	0	0	
+QUESTION	0	0	0	0	0	0	0	0	0	4	0	0	0	
+REPAIR	0	0	0	0	0	0	0	0	0	0	0	0	1	
+STATEMENT	0	0	0	0	0	2	0	0	0	0	0	38	1	
+Unmatched	1	1	0	0	1	0	0	0	0	0	0	0	0	
+
+
+Global per value agreement table:
+"empty"
+0	1
+0	110
+
+ACKNOWLEDGEMENT
+6	1
+4	100
+
+ANSWER
+8	2
+0	101
+
+BACKCHANNEL
+10	2
+0	99
+
+CLARIFICATION
+0	1
+0	110
+
+DIRECTIVE
+0	4
+0	107
+
+EXPRESSIE
+0	0
+2	109
+
+EXPRESSIVE
+20	2
+8	81
+
+OTHER
+4	0
+0	107
+
+QUESTION
+4	0
+0	107
+
+REPAIR
+0	0
+1	110
+
+STATEMENT
+38	6
+3	64
+
+End of global results.
+################################################
